@@ -1,0 +1,2 @@
+# yanko-pub
+pubkey
